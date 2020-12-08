@@ -80,7 +80,7 @@ To remove videos after decrypting use `--rm` flag. To include transcript use `--
 
 - ***Decrypt videos from the default location with transcript***
 ```diff
-pluralvideos --out <outputPath> --trans
+pluralvideos decrypt --out <outputPath> --trans
 ```
 
 **Notes:**
